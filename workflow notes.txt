@@ -1,0 +1,12 @@
+-------- first : setup.py -------
+1. importing required libraries --> setup from setuptool and 
+List from typing (list is used for bringing the function output inside the list)
+
+2. creat a function that with return the outputs (libraries that are required for this entire project)
+        2.1. create a function that will extract the data inside the requirements.txt using 'with open....'
+        2.2. then loop and strip them to print inside list.
+
+3. create a 'setup' block to make a configuration for the entire project to install as package.
+
+------------ second : LOGGING ------------
+1.
