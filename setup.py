@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 from typing import List
 
 def get_requirements(filepath:str)-> List[str]:
