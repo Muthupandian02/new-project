@@ -1,0 +1,2 @@
+[2026-02-03 09:10:19,904] line: 21 filename = data_ingestion.py - INFO - Data injection has started
+[2026-02-03 09:10:20,141] line: 27 filename = data_ingestion.py - INFO - Train Test split initiated
